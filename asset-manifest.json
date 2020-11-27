@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/javascriptQuiz/static/css/main.5cef111d.chunk.css",
+    "main.css": "/javascriptQuiz/static/css/main.bed162bd.chunk.css",
     "main.js": "/javascriptQuiz/static/js/main.9c0f81ce.chunk.js",
     "main.js.map": "/javascriptQuiz/static/js/main.9c0f81ce.chunk.js.map",
     "runtime-main.js": "/javascriptQuiz/static/js/runtime-main.72b573a2.js",
@@ -8,13 +8,13 @@
     "static/js/2.3e33fd30.chunk.js": "/javascriptQuiz/static/js/2.3e33fd30.chunk.js",
     "static/js/2.3e33fd30.chunk.js.map": "/javascriptQuiz/static/js/2.3e33fd30.chunk.js.map",
     "index.html": "/javascriptQuiz/index.html",
-    "static/css/main.5cef111d.chunk.css.map": "/javascriptQuiz/static/css/main.5cef111d.chunk.css.map",
+    "static/css/main.bed162bd.chunk.css.map": "/javascriptQuiz/static/css/main.bed162bd.chunk.css.map",
     "static/js/2.3e33fd30.chunk.js.LICENSE.txt": "/javascriptQuiz/static/js/2.3e33fd30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.72b573a2.js",
     "static/js/2.3e33fd30.chunk.js",
-    "static/css/main.5cef111d.chunk.css",
+    "static/css/main.bed162bd.chunk.css",
     "static/js/main.9c0f81ce.chunk.js"
   ]
 }
