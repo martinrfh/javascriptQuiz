@@ -23,7 +23,7 @@ export default function App() {
   };
 
   return (
-    <div className="bg-gradiant">
+    <div>
       {showStart && (
         <StartQuiz setShowQuiz={setShowQuiz} setShowStart={setShowStart} />
       )}

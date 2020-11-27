@@ -5,13 +5,13 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.bg-gradiant{
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100vw;
-    min-height: 100vh;
+html {
+    min-height: 100%;
     background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 .container{
