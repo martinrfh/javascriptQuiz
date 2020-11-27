@@ -1,0 +1,10 @@
+.answers-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  color: white;
+  gap: 1em;
+  margin-top: 3rem;
+}
+
+

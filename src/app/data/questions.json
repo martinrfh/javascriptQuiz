@@ -1,0 +1,242 @@
+[
+  {
+    "questionText": "Which of the following is not a type in JavaScript ?",
+    "answerOptions": [
+      {
+        "answerText": "integer",
+        "isCorrect": true
+      },
+      {
+      
+        "answerText": "number",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "string",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "boolean",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is the oldest frontend framework ?",
+    "answerOptions": [
+      {
+        "answerText": "Angular",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "React",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "Ember",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "Backbone",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following adds the desired number of elements to the top of an array ?",
+    "answerOptions": [
+      {
+        "answerText": "array.unshift()",
+        "isCorrect": true
+      },
+      {
+      
+        "answerText": "array.pop()",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "array.push()",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "array.splice()",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "What would be the result of 3 + 2 + ' 7 '?",
+    "answerOptions": [
+      {
+        "answerText": "5",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "12",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "57",
+        "isCorrect": true
+      },
+      {
+       
+        "answerText": "7",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "In JavaScript, which method returns a new array based on the results of running a specified action on each element in the orginal array?",
+    "answerOptions": [
+      {
+        "answerText": "reduce",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "map",
+        "isCorrect": true
+      },
+      {
+      
+        "answerText": "forEach",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "transform",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is invalid javaScript for importing from a module ?",
+    "answerOptions": [
+      {
+        "answerText": "import * as n2 , { t } from './f.js'",
+        "isCorrect": true
+      },
+      {
+      
+        "answerText": "import n, { t as t2 } from './f.js'",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "import n, { t } from './f.js'",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "import { default as n2 , t } from './f.js'",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is NOT a node.js framework ?",
+    "answerOptions": [
+      {
+        "answerText": "Neat",
+        "isCorrect": true
+      },
+      {
+      
+        "answerText": "Sails",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "Hapi",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "Express",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the result of 100 / 0 in javaScript ?",
+    "answerOptions": [
+      {
+        "answerText": "NaN",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "0",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "it throws an error",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "Infinity",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is the correct way to check for NaN in JavaScript ?",
+    "answerOptions": [
+      {
+        "answerText": "isNaN(10)",
+        "isCorrect": true
+      },
+      {
+      
+        "answerText": "10 == NaN",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "10 === NaN",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "isNumber(10)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is false ?",
+    "answerOptions": [
+      {
+        "answerText": " ' ' == false ",
+        "isCorrect": false
+      },
+      {
+      
+        "answerText": "NaN == NaN",
+        "isCorrect": true
+      },
+      {
+      
+        "answerText": "false === false",
+        "isCorrect": false
+      },
+      {
+       
+        "answerText": "null == undefined",
+        "isCorrect": false
+      }
+    ]
+  }
+]
